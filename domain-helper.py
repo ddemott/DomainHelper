@@ -5,7 +5,7 @@ from itertools import product  # For generating combinations of prefixes and suf
 import os        # For operating system dependent functionality
 
 
-# ---- API Configuration ----
+# ---- API Configuration ----:
 API_KEY_FILE = "api_key.txt"  # File containing your API key
 API_URL = "https://api.api-ninjas.com/v1/domain"      # API endpoint for domain checking
 
